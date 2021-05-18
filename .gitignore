@@ -10,8 +10,8 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
-bin
-obj
+bin/
+obj/
 
 # Build results
 [Dd]ebug/
